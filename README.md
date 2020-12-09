@@ -1,4 +1,4 @@
-# moduleC6_homework
+# JavaScript small tasks
 
 С6.3. SVG - Смена одной svg иконки на другую по клику на кнопку;
 
